@@ -19,4 +19,7 @@ bindsym --release Shift+Print exec scrot -s ~/Imagens/Captura_de_area_%Y-%m-%d-%
 
 # Lockscreen
 # must comment the same focus shortuct
-bindsym $mod+l exec /bin/lock
+bindsym Mod4+l exec /bin/lock
+
+# Rofi
+bindsym Mod4+shift+f exec rofi -show run
