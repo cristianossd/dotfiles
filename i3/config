@@ -22,4 +22,4 @@ bindsym --release Shift+Print exec scrot -s ~/Imagens/Captura_de_area_%Y-%m-%d-%
 bindsym Mod4+l exec /bin/lock
 
 # Rofi
-bindsym Mod4+shift+f exec rofi -show run
+bindsym Mod4+shift+f exec rofi -show run -lines 5
