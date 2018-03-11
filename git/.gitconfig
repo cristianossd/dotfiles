@@ -1,0 +1,7 @@
+[user]
+	name = Cristiano Santos
+	email = cristianossd@gmail.com
+[color]
+	ui = true
+[core]
+	editor = vim
